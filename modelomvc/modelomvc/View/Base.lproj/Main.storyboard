@@ -26,10 +26,10 @@
             </objects>
             <point key="canvasLocation" x="-1182" y="423"/>
         </scene>
-        <!--Tabla Controller-->
+        <!--Preguntas-->
         <scene sceneID="1mF-X7-SSB">
             <objects>
-                <viewController id="dAc-EN-QVy" customClass="TablaController" customModule="modelomvc" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Preguntas" id="dAc-EN-QVy" customClass="TablaController" customModule="modelomvc" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="YRS-Yb-pQP">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
